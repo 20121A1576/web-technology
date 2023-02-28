@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>task3</title>
+</head>
+<body>
+    <p style="background-color:aqua;color:orange;font-size:40px;">
+    I'm a big,orange,<strong>strong</strong> paragraph </p>
+</body>
+</html>
