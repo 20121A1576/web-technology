@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Restaurant menu</title>
+</head>
+<body style="background-color:rgb(246, 245, 247);">
+    <h1 style="text-align: center;font-style:italic;color:rgb(232, 7, 161)">DIYA'S KITCHEN</h1>
+    <h2 style="text-align: left;color:rgb(102, 148, 186)">MENU CARD</h2>
+    <h2 style="color:rgb(177, 22, 208)"> NON-VEG BIRYANIS:</h2>
+    <ol>
+    <li>Chicken dum biryani</li>
+    <li>Chicken special biryani</li>
+    <li>Mutton dum biryani</li>
+    <li>Fish biryani</li>
+    <li>Prawns biryani</li>
+    </ol>
+    <h2 style="color:rgb(177, 22, 208)">NON-VEG STATERS:</h2>
+    <ol>
+    <li>Chicken 65</li>
+    <li>Dragon chicken</li>
+    <li>Apolo fish</li>
+    <li>Kaju prawns</li>
+    </ol>
+    <h2 style="color:rgb(177, 22, 208)">VEG ITEMS:</h2>
+    <ol>
+    <li>Veg biryani</li>
+    <li>Gobi fried rice</li>
+    <li>Schezwan paneer fried rice</li>
+    <li>Baby corn fried rice</li>
+    <li>Mixed veg fried rice</li>
+    </ol>
+    <h2 style="color:rgb(177, 22, 208)">VEG STATER'S:</h2>
+    <ol>
+    <li>Gobi 65</li>
+    <li>Paneer tikka</li>
+    <li>Baby corn manchurian</li>
+    <li>Kaju mushroom</li>
+    <li>Pepper chicken</li>
+    </ol>
+    <h2 style="color:rgb(177, 22, 208)">FASTFOOD:</h2>
+    <ol>
+    <li>Schezwan noodles</li>
+    <li>Gobi noodles</li>
+    <li>Egg noodles</li>
+    <li>Chicken noodles</li>
+    <li>Schezwan chicken noodles</li>
+    </ol>
+    <h2 style="color:rgb(177, 22, 208)">Desserts:</h2>
+    <ol>
+    <li>Roasted strawberry crumble</li>
+    <li>Almond and date cake</li>
+    <li>Apple and butterscotch pie</li>
+    <li>Almond Malai Kulfi</li>
+    <li>Cinnamon-honey creme brulee</li>
+    </ol>
+</html>
