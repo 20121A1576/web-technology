@@ -3,9 +3,9 @@
 <head>
     <title>Restaurant menu</title>
 </head>
-<body style="background-color:rgb(246, 245, 247);">
+<body style="background-color:lightblue;">
     <h1 style="text-align: center;font-style:italic;color:rgb(232, 7, 161)">DIYA'S KITCHEN</h1>
-    <h2 style="text-align: left;color:rgb(102, 148, 186)">MENU CARD</h2>
+    <h2 style="text-align: left;color:rgb(2, 33, 59)">MENU CARD</h2>
     <h2 style="color:rgb(177, 22, 208)"> NON-VEG BIRYANIS:</h2>
     <ol>
     <li>Chicken dum biryani</li>
