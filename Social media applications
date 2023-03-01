@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Social media applications</title>
+</head>
+<body style="background-color: white;">
+    <h1 style="color:aqua;text-align: center;font-family: ARIAL;">SOCIAL MEDIA APPLICATIONS</h1>
+    <ul>
+    <h2 style="text-align: left;color: rgb(218, 149, 64);font-size: xx-large;">Communication</h2>
+    <IMG align="center" src="https://thumbs.dreamstime.com/b/facebook-instagram-whatsapp-twitter-logos-transparent-white-background-web-use-print-165755866.jpg"width="200"height="200"border="10px"><ul style="font-size: large;color: darkblue;font-family: CAMBRIA;">
+    <li>Facebook</li>
+    <li>Whatapp</li>
+    <li>Instagram</li>
+    <li>Twitter</li>
+    </ul>
+    <ul>
+    <h2 style="text-align: left;color:rgb(218, 149, 64);font-size: xx-large;">Educational Content</h2>
+    <IMG align="center" src="https://static.javatpoint.com/corebasic/images/java-training.png"width="200"height="200"border="10px"><ol style="font-size: larger;color: darkblue;font-family: CAMBRIA;">
+    <ul type="Square">
+    <li>GeeksforGeeks</li>
+    <li>W3School</li>
+    <li>Javatpoint</li>
+    <li>wikipedia</li>
+    </ul>
+</ul>
+</body>
+</html>
