@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Movie Review</title>
+</head>
+
+<body style="background-color: rgb(24, 23, 23);">
+    <font color="pink" face="italic" align="center" size="4">
+        <h1><b><u>Yeh Jawaani Hai Deewani</u><br>
+                <font face="roman" size="5">(Movie Review)</font>
+        </h1></b>
+    </font>
+
+    <h2>
+        <font face="italic" color="white " size="6"> 31 may, 2013 | Hindi</font><br>
+        <img src="https://mews.in/wp-content/uploads/2021/08/Yeh-Jawaani-Hai-Deewani.jpg" height="300">
+        <br>
+
+
+
+        <br>
+        <font face="italic" color="white" size="4">
+            <font size="6" face="broadway" color="#F5CBA7 ">Story Line</font><br>
+            <br>
+            <font size="5">Kabir and Naina</font><b> bond during a trekking trip. Before Naina can
+                express herself, Kabir leaves India to pursue his career. They meet again years later, but he still
+                cherishes his dreams more than bonds.</b><br>
+
+
+            <br>
+            <font size="6" face="broadway" color="#F5CBA7 ">Cast And Crew</font><br>
+            <br><i><b>
+                    <font size="5" color="#FADBD8"> Actors:
+                        <font size="4" color="white">
+                            <ul>
+                                <img src="https://static.theprint.in/wp-content/uploads/2022/11/ANI-20221109131659.jpg" height="300">
+                                <li>Ranbir Kapoor</li><br>
+                                <img src="https://static.toiimg.com/photo/msid-64403592/64403592.jpg" height="300">
+                                <li> Deepika Padukone</li><br>
+                                <img src="https://www.masala.com/public/images/2019/12/21/Aditi.jpg" height="300">
+                                <li> Kalki Koechlin</li><br>
+                                <img src="https://media4.newsnationtv.com/resize/930_-/images/2020/02/15/kapur-501.jpg" height="300">
+                                <li>Aditya Roy Kapur</li><br>
+                            </ul>
+                        </font>
+                    </font>
+
+
+
+                    <font size="5" color="#FADBD8">Director
+
+                    </font>: &nbsp Ayan Mukerji<br>
+            </i></b>
+            <font size="5" color="#FADBD8">Writers</font>: &nbsp Hussain Dalal(dialogue)<br> &nbsp &nbsp &nbsp &nbsp
+            &nbsp
+            &nbsp &nbsp &nbsp &nbsp Ayan
+            Mukerji(story and
+            screenplay)
+            <br>
+        </font>
+        <br>
+        <font size="6" face="broadway" color="#F5CBA7 ">Pros</font><br>
+
+        <font size="5" face="roman" color="white">A movie which will make you follow your dreams even though
+            what comes in
+            ur lyf... It is a very inspiring movie for youngsters to not only enjoy there lyf to the fullest but also
+            make make yourself self independent.</font><br>
+        <br>
+        <font size="6" face="broadway" color="#F5CBA7 ">Cons</font><br>
+        <font size="5" face="roman" color="white">Everthing is good about this movie.No negativities. </font><br>
+        <br>
+        <font size="5" face="broadway" color="#F5CBA7">Related Links</font><br>
+        <a
+            href="https://www.bing.com/search?q=watch+yjhd+trailer&cvid=bb0c114d4a6e4b98a28156e0d2c16389&aqs=edge..69i57.6463j0j1&pglt=41&FORM=ANNTA1&PC=NMTS">
+            <font color="white" face="broadway" size="5"><mark><u>Watch &nbsp Trailer</u></mark></font>
+        </a>
+        <br>
+        <br>
+        <font size="6" face="broadway" color="#F5CBA7 ">Conclusion</font><br>
+        <font size="5" face="roman" color="white"> If you have still not seen a proper Bollywood movie before, this is
+            an ideal introduction to the joys of commercial Bombay cinema. Go see: smile and weep!</font><br>
+
+        <hr>
+
+    </h2>
+
+</body>
+
+</html>
