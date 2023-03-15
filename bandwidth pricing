@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+   <title>Bandwidth pricing table</title>
+   <style>
+   th
+   {
+    background-color:lightgreen;
+   }
+   </style>
+</head>
+<body>
+    <h1 style="text-align: center;"></h1>
+    <table border="5"cellpadding="10"
+        cellpadding="0" width="50%">
+    <tr style="background-color: chartreuse;">
+        <th style="background-color:white;"></th>
+        <th style="background-color: greenyellow;">Smart Starter</th>
+        <th style="background-color: greenyellow;">Smart Medium</th>
+        <th style="background-color: greenyellow;">Smart Business</th>
+        <th style="background-color: greenyellow;">Smart Deluxe</th>
+    </tr>
+    <tr align="center">
+        <th style="background-color: greenyellow;">Storage Space</th>
+        <td style="background-color: lightgreen;">512MB</td>
+        <td style="background-color: lightgreen;">1GB</td>
+        <td style="background-color: lightgreen;">2GB</td>
+        <td style="background-color: lightgreen;">4GB</td>
+    </tr>
+    <tr align="center">
+        <th style="background-color:greenyellow ;">Bandwidth</th>
+        <td style="background-color: lightgreen;">50GB</td>
+        <td style="background-color: lightgreen;">100GB</td>
+        <td style="background-color: lightgreen;">150GB</td>
+        <td style="background-color: lightgreen;">Unlimited</td>
+    </tr>
+    <tr align="center">
+        <th style="background-color: greenyellow;">MySQL Databases</th>
+        <td style="background-color: lightgreen;">Unlimited</td>
+        <td style="background-color: lightgreen;">Unlimited</td>
+        <td style="background-color: lightgreen;">Unlimited</td>
+        <td style="background-color: lightgreen;">Unlimited</td>
+    </tr>
+    <tr align="center">
+        <th style="background-color: greenyellow;">Setup</th>
+        <td style="background-color: lightgreen;">19.90$</td>
+        <td style="background-color: lightgreen;">12.90$</td>
+        <td style="background-color: lightgreen;">free</td>
+        <td style="background-color: lightgreen;">free</td>
+    </tr>
+    <tr align="center">
+        <th style="background-color: greenyellow;">PHP 5</th>
+        <td style="background-color: lightgreen;">&#x2713;</td>
+        <td style="background-color: lightgreen;">&#x2713;</td>
+        <td style="background-color: lightgreen;">&#x2713;</td>
+        <td style="background-color: lightgreen;">&#x2713;</td>
+    </tr>
+    <tr align="center">
+        <th style="background-color:greenyellow;">Ruby on Rails</th>
+        <td style="background-color: lightgreen;">&#x2713;</td>
+        <td style="background-color: lightgreen;">&#x2713;</td>
+        <td style="background-color: lightgreen;">&#x2713;</td>
+        <td style="background-color: lightgreen;">&#x2713;</td>
+    </tr>
+    <tr align="center">
+        <th style="background-color: white;">Price per month</th>
+        <td>$ 2.90</td>
+        <td>$ 5.90</td>
+        <td>$ 9.90</td>
+        <td>$ 14.90</td>
+    </tr>
+    </table>
+        
+</body>
+</html>
